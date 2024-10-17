@@ -1,5 +1,11 @@
 # Pain's Netflix
 
+### Deployment
+The app with my api keys and database is deployed and can be accessed at [https://eu3xj8y9it.us-east-1.awsapprunner.com/].
+
+### Deployed site.
+![alt text](image.png)
+
 # Overall Architecture
 
 The application follows a **client-server architecture** with a **React frontend** and a **Node.js/Express backend**. It uses **MongoDB** for data storage and integrates with **The Movie Database (TMDB) API** for fetching movie and TV show information.
@@ -86,8 +92,6 @@ The application follows a **client-server architecture** with a **React frontend
 - **PostCSS** with Tailwind CSS for styling
 - **npm** for package management
 
-
-
 ### Setup .env file
 
 ```bash
@@ -109,11 +113,6 @@ npm run build
 ```shell
 npm run start
 ```
-### Deployment
-The app with my api keys and database is deployed and can be accessed at [https://eu3xj8y9it.us-east-1.awsapprunner.com/].
-
-### Deployed site.
-![alt text](image.png)
 
 ### PAIN 
 ![alt text](image-1.png)
